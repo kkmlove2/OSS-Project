@@ -2,7 +2,7 @@
 
 int manin(){
   printf("first OSS Colone\n");
-  printf("Second OSS Colone\n");
-  
+  printf("Third OSS Colone\n");
+
   return 0;
 }
